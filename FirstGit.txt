@@ -1,3 +1,4 @@
-this is a test for learning git
-have a nice day!
+This is a test for learning git.
+Have a nice day!
 Wow!
+APEX is the best game ever!
